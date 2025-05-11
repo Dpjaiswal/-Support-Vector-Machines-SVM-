@@ -1,5 +1,5 @@
 # Support-Vector-Machines-SVM
-@ Breast Cancer Detection using SVM
+# Breast Cancer Detection using SVM
 This repository demonstrates the use of Support Vector Machines (SVM) for classifying breast cancer tumors as benign or malignant. The model is trained on the Breast Cancer Wisconsin dataset and evaluated using accuracy, precision, recall, F1-score, and confusion matrix.
 
 # Overview
